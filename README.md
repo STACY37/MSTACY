@@ -1,5 +1,4 @@
 Hi, my name is Marquita.
-
  Information Technology Projects:
 osTicket (Help Desk Ticketing System)
 osTicket: Prerequisites and Installation
